@@ -1,0 +1,1 @@
+GET http://localhost:3000/directors/:1/movies/
